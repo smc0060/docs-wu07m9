@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-67947g.wakku.work/sitemap.xml
